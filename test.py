@@ -121,7 +121,7 @@ async def send_album(media_group_id):
             caption = ""
 
             if index == 0:
-                caption = f"{text}\n\n📢 Kanalga o'tish:\n{link}"
+                caption = f"{text}\n\n📢 Kanalga:\n{link}"
 
             if msg.photo:
                 media.append(InputMediaPhoto(
