@@ -57,7 +57,7 @@ async def send_single(message: types.Message):
     message_map[source_id] = []
 
     for channel_id, link in TARGET_CHANNELS.items():
-        final_text = f"{text}\n\n📢 Kanalimiz:\n{link}"
+        final_text = f"{text}\n\n📢 Kanal:\n{link}"
 
         try:
             sent = None
