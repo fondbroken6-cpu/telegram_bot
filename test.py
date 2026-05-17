@@ -25,6 +25,15 @@ TARGET_CHANNELS = {
     -1003982964898: "https://t.me/+A0SirOh2eTxlZWUy",
     -1003997267876: "https://t.me/+oK2Z35wEFKhjNTQ6",
     -1003937855384: "https://t.me/+gfvTDkZO3_tkZGYy",
+    -1003844930100: "https://t.me/+fpnHzef1aXUyNjZi",
+    -1003751195713: "https://t.me/+fBTZPN7CjBQ5OWRi",
+    -1003575417565: "https://t.me/+arAlqQmzAEZkNmZi",
+    -1003522126863: "https://t.me/+3oL2a9ZuPAU4NDYy",
+    -1003492536984: "https://t.me/+qC1KefkwSgZiNjNi",
+    -1003345943100: "https://t.me/+XOzJ3nBs5QZmNmI6",
+    -1003125891110: "https://t.me/+8yU5MVZ-y384ZTFi",
+    -1002669565512: "https://t.me/+spv97IuVpu1lNTNi",
+    -1002553048208: "https://t.me/+4PacsxX8JBA5MzNi",
 }
 
 bot = Bot(token=BOT_TOKEN)
