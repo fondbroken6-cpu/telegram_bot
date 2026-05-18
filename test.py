@@ -33,7 +33,6 @@ TARGET_CHANNELS = {
     -1003345943100: "https://t.me/+XOzJ3nBs5QZmNmI6",
     -1003125891110: "https://t.me/+8yU5MVZ-y384ZTFi",
     -1002669565512: "https://t.me/+spv97IuVpu1lNTNi",
-    -1002553048208: "https://t.me/+4PacsxX8JBA5MzNi",
 }
 
 bot = Bot(token=BOT_TOKEN)
